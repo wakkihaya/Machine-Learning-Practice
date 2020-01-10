@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d4bfb91-c0c3-417c-9735-2defac00d4ed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="b667aa4d-8130-4a31-88ce-1eec82949a72">
+    <option name="files">
+      <option value="notebook\test1.ipynb" />
+      <option value="notebook\test2.ipynb" />
+      <option value="notebook\test3.ipynb" />
+      <option value="notebook\test4.ipynb" />
+      <option value="notebook\test5.ipynb" />
+    </option>
+  </component>
+  <component name="ProjectId" id="1VaMq1I8HL5yiRwpC2e9dj9Vv0P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hayato Waki\PycharmProjects\sample1\notebook" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d4bfb91-c0c3-417c-9735-2defac00d4ed" name="Default Changelist" comment="" />
+      <created>1577486939218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577486939218</updated>
+      <workItem from="1577486940467" duration="575000" />
+      <workItem from="1577487558148" duration="1627000" />
+      <workItem from="1577578389790" duration="2949000" />
+      <workItem from="1577755331319" duration="1176000" />
+      <workItem from="1578269388167" duration="11000" />
+      <workItem from="1578559694617" duration="2166000" />
+      <workItem from="1578636706233" duration="81000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="579" y="180" key="FileChooserDialogImpl" timestamp="1578636785558">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="579" y="180" key="FileChooserDialogImpl/62.0.1474.864@62.0.1474.864" timestamp="1578636785558" />
+    <state width="1431" height="100" key="GridCell.Tab.0.bottom" timestamp="1578560252982">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="100" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1578560252982" />
+    <state width="1431" height="100" key="GridCell.Tab.0.center" timestamp="1578560252982">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="100" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1578560252982" />
+    <state width="1431" height="100" key="GridCell.Tab.0.left" timestamp="1578560252981">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="100" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1578560252981" />
+    <state width="1431" height="100" key="GridCell.Tab.0.right" timestamp="1578560252982">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="100" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1578560252982" />
+    <state width="189" height="457" key="HiddenNamespacesPopup" timestamp="1577580738575">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="189" height="457" key="HiddenNamespacesPopup/62.0.1474.864@62.0.1474.864" timestamp="1577580738575" />
+    <state x="308" y="76" key="SettingsEditor" timestamp="1578636787207">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="308" y="76" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1578636787207" />
+  </component>
+</project>
